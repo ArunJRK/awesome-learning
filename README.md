@@ -59,8 +59,6 @@ A curated list of awesome resources for our team to learn and grow together.
 ### Real-Time Communication
 - [SSE vs WebSockets (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Comparing_Server-Sent_Events_and_WebSockets)  
   Comparison of SSE and WebSockets, highlighting when to use each.
-- **SSE Implementation Guide (CSS Tricks)**  
-  Practical examples and use cases for SSE in real-world applications.
 
 ### Web Components
 - [Web Components Overview (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components)  
