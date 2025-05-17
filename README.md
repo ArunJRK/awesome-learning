@@ -4,9 +4,11 @@ A curated list of awesome resources for our team to learn and grow together.
 
 ## Categories
 
+### Generics
+- [How to Learn Anything Fast - Josh Kaufman](https://youtu.be/5MgBikgcWnY)
+
 ### Data-Oriented Engineering
 - [Intro to Data Oriented Design for Games](https://www.youtube.com/watch?v=WwkuAqObplU)
-- [How to Learn Anything Fast - Josh Kaufman](https://youtu.be/5MgBikgcWnY)
 
 ### Web Development
 - [How Browsers Work (Google/Web.dev)](https://web.dev/articles/howbrowserswork) / [MDN Guide](https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/How_browsers_work)  
