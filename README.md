@@ -1,4 +1,4 @@
-# Awesome Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+ga# Awesome Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Inspired by the [Awesome](https://github.com/sindresorhus/awesome) list thing.
 
@@ -9,7 +9,7 @@ A curated list of awesome resources for our team to learn and grow together.
 ### Generics
 - [How to Learn Anything Fast - Josh Kaufman](https://youtu.be/5MgBikgcWnY)
 
-### Data-Oriented Engineering
+### Data-Oriented Design
 - [Intro to Data Oriented Design for Games](https://www.youtube.com/watch?v=WwkuAqObplU)
 
 ### Web Development
