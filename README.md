@@ -1,4 +1,6 @@
-# Awesome Learning
+# Awesome Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> Inspired by the [Awesome](https://github.com/sindresorhus/awesome) list thing.
 
 A curated list of awesome resources for our team to learn and grow together.
 
