@@ -39,8 +39,7 @@ A curated list of awesome resources for our team to learn and grow together.
   Advanced guide to using Chrome DevTools for performance debugging.
 
 ### System Design
-- [System Design Interview Guide](https://youtu.be/5TRFpFBccQM)  
-  Practical approach to system design interviews and architectural concepts.
+- [System Design: Why is single-threaded Redis so fast?](https://youtu.be/5TRFpFBccQM)  
 
 ### Design
 - [Design for Developers (MDN)](https://developer.mozilla.org/en-US/curriculum/core/design-for-developers/)  
